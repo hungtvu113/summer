@@ -123,7 +123,7 @@ export default function Home() {
 
           {/* Subtitle */}
           <p className="text-xl sm:text-2xl md:text-3xl text-gray-300 mb-8 font-light italic">
-            "Dân tộc ta từ ngàn xưa đã là một dân tộc anh hùng"
+            &ldquo;Dân tộc ta từ ngàn xưa đã là một dân tộc anh hùng&rdquo;
           </p>
           <p className="text-lg sm:text-xl text-gray-400 mb-12">
             Hành trình 4000 năm dựng nước và giữ nước
